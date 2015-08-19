@@ -1,0 +1,1 @@
+The project needs a name that reflects its goal of making GitHub issues available in any project (regardless of version control system or hosting provider) by representing the issues themselves in a format that can be checked in.
